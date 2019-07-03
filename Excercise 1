@@ -1,0 +1,5 @@
+name=input('Please input your name: ')
+age=int(input('please input you age: '))
+aget=(100-age)
+ageta=((2019-age)+100)
+print("Dear Sir/Madam {}. I am pleased to inform you, that you will have 100 years in {} so it will be year: {} ". format(name, aget, ageta))  
